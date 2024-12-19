@@ -18,3 +18,6 @@ In this demo, 3 parts are shown.
    see:  
    https://kind.sigs.k8s.io/docs/user/quick-start/#installation
 
+
+# install ingress
+
